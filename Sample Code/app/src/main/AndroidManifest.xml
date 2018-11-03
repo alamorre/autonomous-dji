@@ -44,7 +44,7 @@
         -->
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="Please enter your App Key here."/>
+            android:value="e2a34deeb8a300dd5f829db0"/>
 
         <!-- Required for receiving accessory attachment events.
             This is necessary for product when connecting over USB. -->
